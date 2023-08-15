@@ -1,2 +1,3 @@
-# academy_data_analytics_task
-This is my Python data analtyics task from the Data Science Trokut Digital NEET Academy I attended. 
+Performed data cleaning, manipulation, feature engineering, and analysis on a CSV dataset 
+spanning 6 generations of Pokemon. I have uploaded the dataset in its raw form.
+
